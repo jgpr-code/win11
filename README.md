@@ -14,6 +14,7 @@ Setting changes:
 Scripts:
 
 The `explorer.ps1` script can be used to start File Explorer without tabs, big action bar and other screen space wasting BS.
+It also has the nice side-effect that the right-click context menu now will always show the full list immediately 😀
 To make it clickable from anywhere you can create a shortcut with a target like this:
 
 ```cmd
